@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# create readme.md `https://github.com/ranjan-builds/footer-component`
-
-Certainly! Here's a suggested `README.md` file for the **footer-component** project based on the information available:
-
 # Footer Component
 
 Reusable HTML footers – light and dark responsive footers designed for personal or portfolio projects. Easily add to any site via CDN. Includes social links, smooth hover effects, and Tailwind CSS styling.
