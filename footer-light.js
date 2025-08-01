@@ -12,7 +12,7 @@ const footerLightHTML = `
       
       <div class="flex flex-col items-center md:items-end">
         <div class="flex space-x-6 mb-4">
-          <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" 
+          <a href="https://github.com/ranjan-builds" target="_blank" rel="noopener noreferrer" 
              class="footer-link github text-2xl hover:text-white">
             <i class="fab fa-github"></i>
           </a>
@@ -33,7 +33,7 @@ const footerLightHTML = `
         <div class="flex flex-wrap justify-center gap-4">
           <a href="#" class="footer-link text-sm hover:text-white">Privacy Policy</a>
           <a href="#" class="footer-link text-sm hover:text-white">Terms of Service</a>
-          <a href="mailto:your@email.com" class="footer-link text-sm hover:text-white">Contact</a>
+          <a href="mailto:ranjankashyap6475@email.com" class="footer-link text-sm hover:text-white">Contact</a>
         </div>
       </div>
     </div>
