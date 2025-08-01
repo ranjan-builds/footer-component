@@ -79,9 +79,4 @@ This project is licensed under the [Apache License 2.0](https://www.apache.org/l
 
 Created by [ranjan-builds](https://github.com/ranjan-builds).
 
-Feel free to copy this content into your `README.md`. If you want me to include more technical detail or usage instructions, just ask!
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://github.com/ranjan-builds/footer-component
 
